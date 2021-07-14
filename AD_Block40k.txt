@@ -8428,7 +8428,7 @@ DOMAIN-SUFFIX,meetrics.com,AdChoice
 DOMAIN-SUFFIX,meetrics.net,AdChoice
 DOMAIN-SUFFIX,okjhb.xyz,AdChoice
 DOMAIN-SUFFIX,supersonic.com,AdChoice
-DOMAIN-SUFFIX,supersonicads.com,AdChoice
+DOMAIN-SUFFIX,supersonicads.com,AppleAd
 DOMAIN-SUFFIX,zu08e.cn,AdChoice
 DOMAIN-SUFFIX,ad.daum.net,AdChoice
 DOMAIN-SUFFIX,track.xiachufang.com,AdChoice
@@ -43441,7 +43441,7 @@ DOMAIN-KEYWORD,adsserving,AdChoice
 DOMAIN-KEYWORD,crashlytics,AdChoice
 DOMAIN-KEYWORD,talkingdata,AdChoice
 DOMAIN-KEYWORD,securepubads,AdChoice
-DOMAIN-KEYWORD,supersonicads,AdChoice
+DOMAIN-KEYWORD,supersonicads,AppleAd
 DOMAIN-KEYWORD,uploadMobileData,AdChoice
 IP-CIDR,10.72.25.0/24,AdChoice
 IP-CIDR,125.89.69.5/32,AdChoice
